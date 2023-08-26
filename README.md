@@ -1,5 +1,5 @@
-# LGM VIP To_Do_List Task-1
-Web Development
+# To_Do_List
+LGM VIP Web Development Task-1
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
